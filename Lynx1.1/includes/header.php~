@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="stylesheets/foundation.css">
+<link type="text/css" rel="stylesheet" href="stylesheets/app.css">
+<link type="text/css" rel="stylesheet" href="stylesheets/custom.css">
+<link type="text/css" rel="stylesheet" href="stylesheets/jqueryui.css">
+<link type="text/css" rel="stylesheet" href="stylesheets/jquery.dataTables.css">
+
+
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/foundation3/modernizr.foundation.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/foundation3/foundation.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/foundation3/app.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/jquery-ui-1.8.20.custom.min.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/graph.js"></script>
+<script type="text/javascript" src="http://code.anotherwayin.fr/js/graph_export.js"></script>
+<script type="text/javascript" src="<?php echo URL_SITE;?>javascripts/jquery.dataTables.min.js"></script>
+
+    	<script type="text/javascript" >
+
+	$(function() {
+		$( "#date_debut" ).datepicker({
+			defaultDate: "-4w",
+			changeMonth: true,
+			numberOfMonths: 3,
+			onSelect: function( selectedDate ) {
+				$( "#to" ).datepicker( "option", "minDate", selectedDate );
+			}
+		});
+		$( "#date_fin" ).datepicker({
+			defaultDate: "+4w",
+			changeMonth: true,
+			numberOfMonths: 3,
+			onSelect: function( selectedDate ) {
+				$( "#from" ).datepicker( "option", "maxDate", selectedDate );
+			}
+		});
+	});
+	</script>
+	<script type="text/javascript">
+	    	$(document).ready(function() {
+			    $('#tableautri').dataTable( {
+			     			"bProcessing": true,
+			                "oLanguage": {
+					            "sLengthMenu": "Affichage de _MENU_ lignes par page",
+					            "sZeroRecords": "Aucun enregistrement trouvé",
+					            "sInfo": "Lignes _START_ à _END_ sur un total de _TOTAL_ lignes",
+					            "sInfoEmpty": "Aucune ligne",
+					            "sInfoFiltered": "(filtré depuis _MAX_ lignes)"
+					        }
+					        
+	        	} );
+			} );
+	</script>
+		<script type="text/javascript">
+	    	$(document).ready(function() {
+			    $('#tableautriproduit').dataTable( {
+			     			"bProcessing": true,
+			     			"bDeferRender": true,
+			     			"sAjaxSource":'json_produit.php',
+			                "oLanguage": {
+					            "sLengthMenu": "Affichage de _MENU_ lignes par page",
+					            "sZeroRecords": "Aucun enregistrement trouvé",
+					            "sInfo": "Lignes _START_ à _END_ sur un total de _TOTAL_ lignes",
+					            "sInfoEmpty": "Aucune ligne",
+					            "sInfoFiltered": "(filtré depuis _MAX_ lignes)"
+					        }
+					        
+	        	} );
+			} );
+	</script>
+	
+	<script type="text/javascript">
+	    	$(document).ready(function() {
+			    $('#tableautriclient').dataTable( {
+			     			"bProcessing": true,
+			     			"bDeferRender": true,
+			     			"sAjaxSource":'json_client.php',
+			                "oLanguage": {
+					            "sLengthMenu": "Affichage de _MENU_ lignes par page",
+					            "sZeroRecords": "Aucun enregistrement trouvé",
+					            "sInfo": "Lignes _START_ à _END_ sur un total de _TOTAL_ lignes",
+					            "sInfoEmpty": "Aucune ligne",
+					            "sInfoFiltered": "(filtré depuis _MAX_ lignes)"
+					        }
+					        
+	        	} );
+			} );
+	</script>
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Another way in - Votre espace client</title>
+</head>
+<body>
+    <div class="container">    
+        <div id="milieu" class="row">
+           
+ <div class="three columns" id="sidenav">
+<?php include('sidebar.php'); ?>
+ </div>

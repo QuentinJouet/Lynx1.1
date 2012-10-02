@@ -1,0 +1,9 @@
+/* humanstxt.org */
+
+/* Authors */
+Another Way In
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Coda, Textmate, Git

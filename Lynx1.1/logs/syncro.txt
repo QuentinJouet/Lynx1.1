@@ -1,0 +1,1212 @@
+2012-09-19 12:11:52 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:11:52 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:11:54 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 12:11:54 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 12:20:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:20:04 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 12:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 12:30:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:30:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 12:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 12:40:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:40:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 12:40:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 12:50:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 12:50:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 12:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:00:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:00:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 13:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:10:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:10:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 13:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:20:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:20:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 13:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:30:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:30:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 13:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:40:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:40:04 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 13:40:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 13:50:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 13:50:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 13:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:00:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:00:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 14:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:10:02 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:10:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:10:04 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 14:10:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:20:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:20:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 14:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:30:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:30:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:30:04 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 14:30:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:40:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 2
+2012-09-19 14:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:40:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 14:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 14:50:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:50:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 14:50:04 | MAJ Produits: ok : 1613 | nouveaux : 0 | outofsync : 5 | crees : 0 | modifiés : 5
+2012-09-19 14:50:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:00:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:00:04 | MAJ Produits: ok : 1617 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 15:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:10:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:10:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:10:04 | MAJ Produits: ok : 1610 | nouveaux : 0 | outofsync : 8 | crees : 0 | modifiés : 8
+2012-09-19 15:10:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:20:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:20:03 | MAJ Produits: ok : 1600 | nouveaux : 0 | outofsync : 18 | crees : 0 | modifiés : 18
+2012-09-19 15:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:30:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:30:03 | MAJ Produits: ok : 1606 | nouveaux : 0 | outofsync : 12 | crees : 0 | modifiés : 12
+2012-09-19 15:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:40:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:40:04 | MAJ Produits: ok : 1610 | nouveaux : 0 | outofsync : 8 | crees : 0 | modifiés : 8
+2012-09-19 15:40:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 15:50:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 15:50:03 | MAJ Produits: ok : 1611 | nouveaux : 0 | outofsync : 7 | crees : 0 | modifiés : 7
+2012-09-19 15:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:00:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:00:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:10:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:10:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:20:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:20:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:30:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:30:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:40:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:40:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 16:50:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 16:50:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 16:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:00:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:00:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:10:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:10:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:10:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:10:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:20:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:20:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:30:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:30:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:30:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:30:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:40:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:40:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 17:50:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:50:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 17:50:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 17:50:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:00:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:00:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 18:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:10:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:10:03 | MAJ Produits: ok : 1617 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 18:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:20:02 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:20:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:20:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 18:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:30:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:30:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 18:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:40:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:40:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 18:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 18:50:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 18:50:03 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 18:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:00:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:00:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 19:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:10:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:10:03 | MAJ Produits: ok : 1616 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-19 19:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:20:01 | Nettoyage Produits: ok : 1618 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:20:04 | MAJ Produits: ok : 1618 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-19 19:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:30:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:30:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 19:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:40:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:40:04 | MAJ Produits: ok : 1618 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-19 19:40:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-19 19:50:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-19 19:50:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-19 19:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:00:02 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:00:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:00:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:10:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:10:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:20:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:20:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:30:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:30:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:40:02 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:40:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:40:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:40:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 09:50:02 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:50:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 09:50:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 09:50:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:00:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:00:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 10:00:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:10:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:10:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 10:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:20:02 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:20:02 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:20:04 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 10:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:30:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:30:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 10:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:40:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:40:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 10:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 10:50:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 10:50:03 | MAJ Produits: ok : 1619 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-20 10:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:00:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:00:03 | MAJ Produits: ok : 1619 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-20 11:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:10:01 | Nettoyage Produits: ok : 1619 | a supprimer : 0 | supprimés : 1
+2012-09-20 11:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:10:04 | MAJ Produits: ok : 1618 | nouveaux : 1 | outofsync : 2 | crees : 1 | modifiés : 2
+2012-09-20 11:10:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:20:01 | Nettoyage Produits: ok : 1620 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:20:04 | MAJ Produits: ok : 1620 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-20 11:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:30:01 | Nettoyage Produits: ok : 1621 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:30:03 | MAJ Produits: ok : 1620 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-20 11:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:40:01 | Nettoyage Produits: ok : 1621 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:40:03 | MAJ Produits: ok : 1621 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 11:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 11:50:01 | Nettoyage Produits: ok : 1621 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 11:50:03 | MAJ Produits: ok : 1621 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 11:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:00:01 | Nettoyage Produits: ok : 1621 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:00:03 | MAJ Produits: ok : 1620 | nouveaux : 2 | outofsync : 3 | crees : 2 | modifiés : 3
+2012-09-20 12:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:10:01 | Nettoyage Produits: ok : 1623 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:10:03 | MAJ Produits: ok : 1622 | nouveaux : 6 | outofsync : 7 | crees : 6 | modifiés : 7
+2012-09-20 12:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:20:01 | Nettoyage Produits: ok : 1629 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:20:04 | MAJ Produits: ok : 1627 | nouveaux : 4 | outofsync : 6 | crees : 4 | modifiés : 6
+2012-09-20 12:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:30:01 | Nettoyage Produits: ok : 1633 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:30:03 | MAJ Produits: ok : 1629 | nouveaux : 5 | outofsync : 9 | crees : 5 | modifiés : 9
+2012-09-20 12:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:40:01 | Nettoyage Produits: ok : 1638 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:40:03 | MAJ Produits: ok : 1638 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-20 12:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 12:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 12:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 12:50:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:00:03 | MAJ Produits: ok : 1635 | nouveaux : 0 | outofsync : 4 | crees : 0 | modifiés : 4
+2012-09-20 13:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:10:03 | MAJ Produits: ok : 1638 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-20 13:10:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:20:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 13:20:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 13:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:40:03 | MAJ Produits: ok : 1637 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-20 13:40:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 13:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:50:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 13:50:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 13:50:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 14:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:00:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:00:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 14:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:10:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:10:04 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 14:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:20:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:20:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 14:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:30:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:30:03 | MAJ Categories: ok : 128 | outofsync : 0 | crees : 0
+2012-09-20 14:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:40:01 | Nettoyage Categories: ok : 128 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:40:03 | MAJ Categories: ok : 128 | outofsync : 1 | crees : 1
+2012-09-20 14:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 14:50:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 14:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 15:50:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 15:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 15:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 16:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 16:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:20:04 | MAJ Produits: ok : 1638 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-20 16:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:30:04 | MAJ Produits: ok : 1637 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-20 16:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:40:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 16:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 16:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 16:50:03 | MAJ Produits: ok : 1637 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-20 16:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:00:03 | MAJ Produits: ok : 1635 | nouveaux : 0 | outofsync : 4 | crees : 0 | modifiés : 4
+2012-09-20 17:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:10:04 | MAJ Produits: ok : 1633 | nouveaux : 0 | outofsync : 6 | crees : 0 | modifiés : 6
+2012-09-20 17:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:20:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:20:04 | MAJ Produits: ok : 1631 | nouveaux : 0 | outofsync : 8 | crees : 0 | modifiés : 8
+2012-09-20 17:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:30:04 | MAJ Produits: ok : 1636 | nouveaux : 0 | outofsync : 3 | crees : 0 | modifiés : 3
+2012-09-20 17:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 17:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 17:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 17:50:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 17:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:10:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:10:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:20:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 18:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 18:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 18:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-20 19:50:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-20 19:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-20 19:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:00:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:00:04 | MAJ Produits: ok : 1616 | nouveaux : 0 | outofsync : 23 | crees : 0 | modifiés : 23
+2012-09-21 09:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:10:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:10:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 09:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 09:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 09:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:40:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 09:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 09:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 09:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 09:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:00:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:00:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 10:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:10:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:10:04 | MAJ Produits: ok : 1638 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-21 10:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 10:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 10:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:40:04 | MAJ Produits: ok : 1638 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-21 10:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 10:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 10:50:03 | MAJ Produits: ok : 1637 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-21 10:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:00:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:00:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:30:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:30:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:40:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 11:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 11:50:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 11:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:00:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:00:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 12:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:10:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 12:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:20:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:20:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 12:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:30:02 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:30:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 12:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:40:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:40:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 12:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 12:50:01 | Nettoyage Produits: ok : 1639 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 12:50:04 | MAJ Produits: ok : 1639 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-21 12:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:00:01 | Nettoyage Produits: ok : 1640 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:00:03 | MAJ Produits: ok : 1639 | nouveaux : 1 | outofsync : 2 | crees : 1 | modifiés : 2
+2012-09-21 13:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:10:01 | Nettoyage Produits: ok : 1641 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:10:03 | MAJ Produits: ok : 1638 | nouveaux : 1 | outofsync : 4 | crees : 1 | modifiés : 4
+2012-09-21 13:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:20:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:20:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 13:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:30:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:30:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 13:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:40:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:40:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 13:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 13:50:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 13:50:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 13:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:00:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:00:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 14:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:10:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:10:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 14:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:20:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:20:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 14:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:30:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:30:04 | MAJ Produits: ok : 1641 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-21 14:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:40:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:40:04 | MAJ Produits: ok : 1636 | nouveaux : 0 | outofsync : 6 | crees : 0 | modifiés : 6
+2012-09-21 14:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 14:50:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 14:50:04 | MAJ Produits: ok : 1632 | nouveaux : 0 | outofsync : 10 | crees : 0 | modifiés : 10
+2012-09-21 14:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:00:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:00:03 | MAJ Produits: ok : 1640 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-21 15:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:10:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:10:04 | MAJ Produits: ok : 1640 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-21 15:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:20:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:20:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 15:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:30:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:30:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 15:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:40:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:40:04 | MAJ Produits: ok : 1641 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-21 15:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 15:50:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 15:50:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 15:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:00:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:00:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 16:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:10:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:10:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 16:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:20:02 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:20:04 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 3 | crees : 0 | modifiés : 3
+2012-09-21 16:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:30:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:30:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 16:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:40:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:40:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 16:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 16:50:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 16:50:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 16:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:00:01 | Nettoyage Produits: ok : 1642 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:00:03 | MAJ Produits: ok : 1642 | nouveaux : 1 | outofsync : 1 | crees : 1 | modifiés : 1
+2012-09-21 17:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:10:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:10:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 17:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:20:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:20:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 17:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:30:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:30:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 17:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:40:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:40:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 17:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 17:50:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 17:50:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 17:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:00:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:00:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:10:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:10:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:20:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:20:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:30:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:30:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:40:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:40:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 18:50:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 18:50:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 18:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:00:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:00:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:10:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:10:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:20:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:20:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:30:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:30:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:40:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:40:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-21 19:50:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-21 19:50:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-21 19:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:00:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:00:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:10:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:10:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:20:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:20:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:30:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:30:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:40:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:40:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 09:50:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 09:50:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 09:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:00:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:00:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:10:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:10:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:20:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:20:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:30:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:30:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:40:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:40:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 10:50:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 10:50:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 10:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:00:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:00:03 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 11:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:10:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:10:03 | MAJ Produits: ok : 1639 | nouveaux : 0 | outofsync : 4 | crees : 0 | modifiés : 4
+2012-09-22 11:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:20:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:20:03 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-22 11:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:30:02 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:30:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-22 11:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:40:01 | Nettoyage Produits: ok : 1643 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:40:03 | MAJ Produits: ok : 1642 | nouveaux : 1 | outofsync : 2 | crees : 1 | modifiés : 2
+2012-09-22 11:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 11:50:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 11:50:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 11:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:20:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:40:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 12:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 12:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 12:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:10:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:40:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 13:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 13:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 13:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:30:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:30:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 14:50:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 14:50:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 14:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:00:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:20:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 15:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 15:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 15:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:30:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:30:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 16:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 16:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 16:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 17:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 17:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 17:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:10:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:30:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 18:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 18:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 18:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:00:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-22 19:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-22 19:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-22 19:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-23 17:00:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-23 17:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-23 17:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-23 17:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:00:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:00:05 | MAJ Produits: ok : 1638 | nouveaux : 0 | outofsync : 6 | crees : 0 | modifiés : 6
+2012-09-24 09:00:05 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 09:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 09:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 09:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:40:04 | MAJ Produits: ok : 1635 | nouveaux : 0 | outofsync : 9 | crees : 0 | modifiés : 9
+2012-09-24 09:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 09:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 09:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 09:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:00:04 | MAJ Produits: ok : 1630 | nouveaux : 0 | outofsync : 14 | crees : 0 | modifiés : 14
+2012-09-24 10:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:10:03 | MAJ Produits: ok : 1634 | nouveaux : 0 | outofsync : 10 | crees : 0 | modifiés : 10
+2012-09-24 10:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 10:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 10:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 10:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 10:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 10:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 10:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:40:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 11:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 11:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 11:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 12:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 12:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 12:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 12:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 12:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 12:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 12:50:04 | MAJ Produits: ok : 1642 | nouveaux : 0 | outofsync : 2 | crees : 0 | modifiés : 2
+2012-09-24 12:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:10:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:20:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:20:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:20:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:40:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:40:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 13:50:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 13:50:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 13:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:00:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:00:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:30:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:30:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:30:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:30:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 14:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 14:50:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 14:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 15:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:10:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 15:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:20:04 | MAJ Produits: ok : 1641 | nouveaux : 0 | outofsync : 3 | crees : 0 | modifiés : 3
+2012-09-24 15:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 15:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 15:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 15:50:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:50:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 15:50:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 15:50:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:00:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 16:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:10:02 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:10:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:10:04 | MAJ Produits: ok : 1643 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-24 16:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:20:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 16:20:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:30:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:30:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:30:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 16:30:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:40:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:40:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:40:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 16:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 16:50:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 16:50:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 16:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 17:00:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:00:03 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 17:00:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 17:10:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:10:04 | MAJ Produits: ok : 1644 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-24 17:10:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 17:20:01 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:20:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:20:04 | MAJ Produits: ok : 1634 | nouveaux : 0 | outofsync : 10 | crees : 0 | modifiés : 10
+2012-09-24 17:20:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-24 17:31:06 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:31:06 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-24 17:31:09 | MAJ Produits: ok : 1641 | nouveaux : 0 | outofsync : 3 | crees : 0 | modifiés : 3
+2012-09-24 17:31:09 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-26 10:34:47 | Nettoyage Produits: ok : 1644 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:34:47 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:34:49 | MAJ Produits: ok : 1577 | nouveaux : 2 | outofsync : 69 | crees : 2 | modifiés : 69
+2012-09-26 10:34:49 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-26 10:40:02 | Nettoyage Produits: ok : 1646 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:40:02 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:40:04 | MAJ Produits: ok : 1646 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-26 10:40:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-26 10:50:01 | Nettoyage Produits: ok : 1646 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:50:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-26 10:50:03 | MAJ Produits: ok : 1646 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-26 10:50:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-26 11:00:01 | Nettoyage Produits: ok : 1646 | a supprimer : 0 | supprimés : 0
+2012-09-26 11:00:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-26 11:00:04 | MAJ Produits: ok : 1645 | nouveaux : 0 | outofsync : 1 | crees : 0 | modifiés : 1
+2012-09-26 11:00:04 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0
+2012-09-26 11:10:01 | Nettoyage Produits: ok : 1646 | a supprimer : 0 | supprimés : 0
+2012-09-26 11:10:01 | Nettoyage Categories: ok : 129 | a supprimer : 0 | supprimés : 0
+2012-09-26 11:10:03 | MAJ Produits: ok : 1646 | nouveaux : 0 | outofsync : 0 | crees : 0 | modifiés : 0
+2012-09-26 11:10:03 | MAJ Categories: ok : 129 | outofsync : 0 | crees : 0

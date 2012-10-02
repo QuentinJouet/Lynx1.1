@@ -1,0 +1,71 @@
+#footer {
+text-align:center;	
+}
+
+.droite {
+text-align:right;	
+	
+}
+
+.centrer {
+	text-align:center;
+}
+
+.vert {
+	color: #60c33f;
+}
+
+.rouge {
+	color: #c23d3d;
+}
+
+.nopus {
+	list-style-type: none;
+}
+
+.tableaudebord h3 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.case_alerte_stock {
+
+	height:100%;
+	width: 100%;
+	margin: 0;
+	padding: 30%;
+
+	-webkit-border-radius: 30px;
+    
+    border-radius: 30px;
+    
+
+	-webkit-box-shadow: inset 0px -10px 20px 0px rgba(9, 9, 9, 0.3);
+        
+        box-shadow: inset 0px -10px 20px 0px rgba(9, 9, 9, 0.3);
+	
+	
+}
+
+.textealertestock {
+	text-align: center;
+	font-weight: 100;
+	font-size: 1px;
+	display: none;	
+}
+
+/*Stocks.php*/
+
+#analyse_stocks td {
+	text-align: center;
+}
+#analyse_stocks a {
+	color:#333;
+	font-weight: bold;
+}
+#analyse_stocks a:hover {
+	color:#000;
+	font-weight: bold;
+	text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+# www.robotstxt.org/
+
+
+User-agent: *
+Disallow: /graphiques/
+Disallow: /includes/
+Disallow: /javascripts/
+Disallow: /graphiques/
+Disallow: /theme/
+Disallow: /plesk-stat/
+Disallow: /ressources/
