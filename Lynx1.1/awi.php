@@ -3,6 +3,7 @@
 
 <?php 
 
+//Je commente le fichier awi.php pour le modifier dans une nouvelle branche
 
 $tickets=Ticket::find_by_sql('SELECT * FROM ticket ORDER BY id DESC');
 
